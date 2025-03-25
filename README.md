@@ -5,7 +5,7 @@ It allows real-time manipulation of CSS variables like spacing, blur, and base c
 
 ## 🚀 Features
 
-- 🔧 Live update of CSS custom properties (`--spacing`, `--blur`, `--base-color`)
+- 🔧 Live update of CSS custom properties (`--spacing`, `--blur`, `--base`)
 - 🎨 Color picker that updates styles in **real time** using the `input` event
 - 📏 Range sliders for padding and blur effects
 - 🖼 Image styled dynamically based on input controls
